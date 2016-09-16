@@ -63,8 +63,12 @@ section h1 {
   margin-left: 0;
 }
 section p {
+  font-size: 1.3em;
   text-align: justify;
-  font-size: 1.3em
+}
+section a {
+  text-align: initial;
+  text-indent: 0em;
 }
 span {
   font-size: 1em;
@@ -161,6 +165,12 @@ a:hover {
   bottom: -72px;
   right: 0;
 }
+.fab-container a:active {
+    outline: none;
+}
+.fab-container a:focus {
+    outline: none;
+}
 .fab {
   width: 56px;
   height: 56px;
@@ -230,4 +240,5 @@ a:hover {
     ul { width: 85%; }
     li { float: initial; }
     li a { text-align: center; }
+    section p { text-indent: 0px; }
 }
