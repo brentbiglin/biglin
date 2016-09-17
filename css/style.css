@@ -201,7 +201,7 @@ a:visited {
   margin-bottom: 1em;
 }
 .profile:after {
-  background: #003300 url("../img/twitter-material-design.png") center no-repeat;
+  background: darkgreen url("../img/twitter-material-design.png") center no-repeat;
   position: absolute;
   left: 0;
   content: '';
@@ -215,7 +215,7 @@ a:visited {
   transform: rotate(90deg);
 }
 .top {
-  background: #003300 url("../img/arrow-up-material-design.png") center no-repeat;
+  background: darkgreen url("../img/arrow-up-material-design.png") center no-repeat;
 }
 @media (min-width: 701px)
   and (max-width: 1000px) {
