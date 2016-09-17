@@ -19,7 +19,7 @@ h1 {
   margin-left: auto;
   width: 50%;
 }
-h1 a {
+header h1 a {
     color: black;
 }
 h1 a:visited {
