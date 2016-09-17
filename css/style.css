@@ -65,6 +65,7 @@ section h1 {
 section p {
   font-size: 1.3em;
   text-align: justify;
+  text-indent: 2em;
 }
 section a {
   text-align: initial;
