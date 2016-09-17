@@ -242,6 +242,7 @@ a:hover {
     li { float: initial; }
     li a { text-align: center; }
     section p { text-indent: 0px; }
+    article p { text-indent: 0px; }
 }
 /* Roboto Font */
 /* cyrillic-ext */
