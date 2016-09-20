@@ -215,6 +215,7 @@ a:visited {
     li a { text-align: center; }
     section p { text-indent: 0px; }
     article p { text-indent: 0px; }
+    blockquote { text-indent: 0px; text-align: center; }
 }
 /* Roboto Font */
 /* cyrillic-ext */
