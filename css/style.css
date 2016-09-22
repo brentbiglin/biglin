@@ -213,9 +213,10 @@ a:visited {
     ul { width: 85%; }
     li { float: initial; }
     li a { text-align: center; }
-    section p { text-indent: 0px; }
-    article p { text-indent: 0px; }
-    blockquote { text-indent: 0px; text-align: center; }
+    section p { text-indent: 0px; font-size: 1em; line-height: 1.5em; }
+    article p { text-indent: 0px; font-size: 1em; line-height: 1.5em; }
+    blockquote { text-indent: 0px; font-size: .8em; padding: 15px; }
+    blockquote p { text-align: left; }
 }
 /* Roboto Font */
 /* cyrillic-ext */
