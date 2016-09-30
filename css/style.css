@@ -45,6 +45,9 @@ aside {
   margin-top: 75px;
   font-size: 1.7em;
 }
+header h1 {
+  font-weight: 800;
+}
 article h1 {
   font-size: 1.6em;
   font-family: 'Roboto', sans-serif;
@@ -107,6 +110,14 @@ li a {
 li a:hover {
   background-color: #35005b;
   transition: .3s;
+}
+figure {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  width: 100%;
 }
 footer {
   overflow: hidden;
