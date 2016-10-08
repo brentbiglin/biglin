@@ -93,8 +93,8 @@ figure {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 2em;
-  margin-bottom: 2em;
+  margin-top: 30px;
+  margin-bottom: 30px;
   width: 100%;
 }
 footer {
@@ -110,7 +110,6 @@ blockquote {
   color: lavender;
   background-color: indigo;
   padding: 8px 35px;
-  line-height: 1.7em;
   margin-top: 30px;
   margin-bottom: 30px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
@@ -167,7 +166,7 @@ a:visited {
   font-weight: bold;
 }
 .fab-container {
-  margin: 1em;
+  margin: 16px;
   position: fixed;
   bottom: -72px;
   right: 0;
