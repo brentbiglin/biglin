@@ -199,7 +199,6 @@ a:visited {
   background: #1B5E20;
   color: white;
 }
-@import url('https://fonts.googleapis.com/css?family=Noto+Serif|Roboto');
 @media (min-width: 701px)
   and (max-width: 1000px) {
     h1 { width: 75%; }
