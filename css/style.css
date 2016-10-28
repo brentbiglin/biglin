@@ -109,7 +109,7 @@ footer {
   text-align: center;
 }
 blockquote {
-  color: lavender;
+  color: white;
   background-color: #673AB7;
   padding: 8px 35px;
   margin-top: 30px;
@@ -147,15 +147,15 @@ blockquote {
   text-align: initial;
 }
 a.nav:link {
-  color: ghostwhite;
+  color: white;
   text-decoration: none;
 }
 a.nav:visited {
-  color: ghostwhite;
+  color: white;
   text-decoration: none;
 }
 a.nav:hover {
-  color: ghostwhite;
+  color: white;
   text-decoration: none;
 }
 a:link {
