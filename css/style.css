@@ -159,12 +159,12 @@ a.nav:hover {
   text-decoration: none;
 }
 a:link {
-  color: #4CAF50;
+  color: #1B5E20;
   text-decoration: none;
   font-weight: bold;
 }
 a:visited {
-  color: #4CAF50;
+  color: #1B5E20;
   text-decoration: none;
   font-weight: bold;
 }
@@ -190,7 +190,7 @@ a:visited {
   transition: .3s;
 }
 .top {
-  background: #4CAF50 url("../img/arrow-up.png") center no-repeat;
+  background: #1B5E20 url("../img/arrow-up.png") center no-repeat;
 }
 .top:hover {
     box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
