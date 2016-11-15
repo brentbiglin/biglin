@@ -62,7 +62,7 @@ section h1 {
   font-weight: bold;
 }
 nav {
-  background: #673AB7;
+  background: #5E35B1;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 ul {
@@ -70,7 +70,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #673AB7;
+  background-color: #5E35B1;
   display: block;
   font-size: 18px;
   word-spacing: 40px;
@@ -92,7 +92,7 @@ li a {
   transition: .3s;
 }
 li a:hover {
-  background-color: #5E35B1;
+  background-color: #512DA8;
   transition: .3s;
 }
 figure {
@@ -106,17 +106,16 @@ figure {
 }
 footer {
   overflow: hidden;
-  //background-color: #673AB7;
-  background-color: #512DA8;
+  background-color: #5E35B1;
   font-size: 14px;
   font-weight: lighter;
   line-height: 50px;
-  color: lavender;
+  color: white;
   text-align: center;
 }
 blockquote {
   color: white;
-  background-color: #673AB7;
+  background-color: #5E35B1;
   padding: 8px 35px;
   margin-top: 30px;
   margin-bottom: 30px;
