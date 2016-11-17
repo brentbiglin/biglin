@@ -144,12 +144,12 @@ blockquote {
   margin-right: 7px;
 }
 .archive {
-  text-indent: 36px;
-  text-align: initial;
-}
-.archive-date {
   text-indent: 18px;
   text-align: initial;
+  line-height: 10px;
+}
+.archive-date {
+  font-size: 12px;
 }
 a.nav:link {
   color: white;
