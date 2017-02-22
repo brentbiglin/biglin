@@ -161,14 +161,6 @@ blockquote {
   padding: 10px 30px 10px 0;
   width: 25%;
 }
-.archive {
-  text-indent: 0px;
-  text-align: initial;
-  line-height: 20px;
-}
-.archive-date {
-  font-size: 12px;
-}
 a.nav:link {
   color: white;
   text-decoration: none;
@@ -228,7 +220,6 @@ a:visited {
 @media (min-width: 701px)
   and (max-width: 1000px) {
     header { width: 80%; }
-    h2 { width: 80%; }
     article { width: 80%; }
     section { width: 80%; }
     .social { margin: 0 3px 0 3px; }
