@@ -237,9 +237,10 @@ a:visited {
 @media (min-width: 1px)
   and (max-width: 700px) {
     h1 { line-height: 50px; }
+    header h1 { text-align: center; }
     header { width: 85%; }
-    header aside { text-align: center;}
-    h2 { width: 85%; }
+    header aside { text-align: center; float: none; margin-left: auto; margin-right: auto; }
+    header p { text-align: center; margin-top: 10px; }
     article { width: 85%; }
     section { width: 85%; }
     ul { width: 100%; margin-left: auto; margin-right: auto; }
