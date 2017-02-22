@@ -7,7 +7,7 @@ body {
   width: 100%;
 }
 header {
-   width: 55%;
+   width: 65%;
    margin-right: auto;
    margin-left: auto;
 }
@@ -36,14 +36,14 @@ header aside {
   margin: 0 0 0 0;
 }
 article {
-  width: 55%;
+  width: 65%;
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 50px;
   margin-top: 50px;
 }
 section {
-  width: 55%;
+  width: 65%;
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 50px;
@@ -54,7 +54,7 @@ section {
   justify-content: space-around;
 }
 aside {
-  width: 55%;
+  width: 65%;
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 100px;
@@ -109,8 +109,11 @@ li a {
   display: block;
   transition: .3s;
 }
+.current {
+  background-color: #4527A0;
+}
 li a:hover {
-  background-color: #512DA8;
+  background-color: #4527A0;
   transition: .3s;
 }
 figure {
@@ -190,12 +193,13 @@ a:visited {
 }
 .card {
   position: relative;
-  margin: 0 10px 35px 10px;
+  margin: 35px 10px 15px 10px;
   background-color: #fff;
+  font-size: 14px;
   transition: box-shadow .25s;
   border-radius: 2px;
   width: 300px;
-  height: 250px;
+  height: 300px;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
 }
 .card p {
@@ -209,6 +213,7 @@ a:visited {
 .card-image {
   display: block;
   border-radius: 2px 2px 0 0;
+  border-bottom: 1px solid LightGrey;
   position: relative;
   left: 0;
   right: 0;
@@ -222,11 +227,12 @@ a:visited {
 }
 @media (min-width: 701px)
   and (max-width: 1000px) {
-    header { width: 75%; }
-    h2 { width: 75%; }
-    article { width: 75%; }
-    section { width: 75%; }
+    header { width: 80%; }
+    h2 { width: 80%; }
+    article { width: 80%; }
+    section { width: 80%; }
     .social { margin: 0 3px 0 3px; }
+    .card {  margin: 10px 10px 15px 10px; }
 }
 @media (min-width: 1px)
   and (max-width: 700px) {
@@ -236,7 +242,7 @@ a:visited {
     h2 { width: 85%; }
     article { width: 85%; }
     section { width: 85%; }
-    ul { width: 85%; margin-left: auto; margin-right: auto; }
+    ul { width: 100%; margin-left: auto; margin-right: auto; }
     li { float: initial; }
     li a { text-align: center; }
     section p { text-indent: 0px; }
@@ -244,5 +250,6 @@ a:visited {
     blockquote { text-indent: 0px; }
     blockquote p { text-align: left; }
     .social { margin: 0 0 0 0; }
+    .card {  margin: 0px 10px 30px 10px; }
 
 }
