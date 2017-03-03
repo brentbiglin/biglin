@@ -1,8 +1,10 @@
 html {
   font-family: 'Roboto', sans-serif;
+  position: relative;
+  min-height: 100%;
 }
 body {
-  margin: 0;
+  margin: 0 0 100px;
   line-height: 30px;
   width: 100%;
 }
@@ -47,14 +49,14 @@ section {
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 50px;
-  margin-top: 100px;
   clear: both;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
+  text-align: center;
 }
 aside {
-  width: 65%;
+  width: 50%;
   margin-right: auto;
   margin-left: auto;
   margin-bottom: 100px;
@@ -82,6 +84,7 @@ section h1 {
 nav {
   background: #474A99;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  margin-bottom: 20px;
 }
 nav ul {
   list-style-type: none;
@@ -93,10 +96,10 @@ nav ul {
   font-size: 18px;
   word-spacing: 40px;
   line-height: 20px;
-  margin-right: 60px;
+  margin-right: 0;
   margin-left: auto;
   color: azure;
-  width: 40%;
+  width: 51%;
 }
 nav li {
   float: left;
@@ -135,6 +138,10 @@ footer {
   text-align: center;
   width: 100%;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 45px;
 }
 blockquote {
   color: white;
@@ -142,6 +149,11 @@ blockquote {
   padding: 8px 35px;
   margin-top: 30px;
   margin-bottom: 30px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+}
+.resume {
+  max-width: 100%;
+  border-radius: 2px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 .displayed {
@@ -189,6 +201,9 @@ blockquote {
 .icon {
   margin: 0 10px 0 0;
 }
+.icon-about {
+  margin: 30px 30px 0 30px;
+}
 .profile {
   float: left;
   padding: 10px 30px 10px 0;
@@ -227,12 +242,13 @@ a:visited {
   height: 300px;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
 }
-.card p {
+figcaption {
   font-size: 18px;
   color: black;
   text-align: center;
   margin-top: 35px;
   margin-bottom: 0px;
+  font-weight: 400;
 }
 .card:hover {
     box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
@@ -270,7 +286,7 @@ a:visited {
     article h1 { text-align: center; }
     section h1 { text-align: center; }
     section { width: 85%; }
-    nav ul { width: 100%; margin-left: auto; margin-right: auto; }
+    nav ul { width: 100%; }
     nav li { float: initial; }
     nav li a { text-align: center; }
     section p { text-indent: 0px; }
