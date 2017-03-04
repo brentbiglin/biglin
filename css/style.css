@@ -9,7 +9,7 @@ body {
   width: 100%;
 }
 header {
-   width: 65%;
+   width: 60%;
    margin-right: auto;
    margin-left: auto;
 }
@@ -195,14 +195,20 @@ blockquote {
   border-radius: 2px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
+.shadow-single {
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+  border-radius: 2px;
+  transition: box-shadow .25s;
+  height: 100px;
+  width: 120px;
+  margin: 20px;
+  padding-top: 30px;
+}
 .social {
   margin: 0 5px 0 5px;
 }
 .icon {
   margin: 0 10px 0 0;
-}
-.icon-about {
-  margin: 30px 30px 0 30px;
 }
 .profile {
   float: left;
@@ -251,6 +257,9 @@ figcaption {
   font-weight: 400;
 }
 .card:hover {
+    box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+.shadow-single:hover {
     box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
 .card-image {
