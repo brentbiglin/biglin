@@ -44,7 +44,18 @@ article {
   margin-bottom: 50px;
   margin-top: 50px;
 }
-section {
+.flex-100 {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 50px;
+  clear: both;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  text-align: center;
+}
+.flex-65 {
   width: 65%;
   margin-right: auto;
   margin-left: auto;
@@ -62,6 +73,7 @@ aside {
   margin-bottom: 100px;
   margin-top: 75px;
   font-size: 18px;
+  clear: both;
 }
 article h1 {
   font-size: 24px;
@@ -166,7 +178,7 @@ blockquote {
   border-radius: 2px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
-.displayed-noshadow {
+.noshadow {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -175,23 +187,13 @@ blockquote {
   max-width: 100%;
   border-radius: 2px;
 }
-.displayed-smaller {
+.small {
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-top: 30px;
   margin-bottom: 30px;
-  max-width: 80%;
-  border-radius: 2px;
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-}
-.displayed-smallest {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  max-width: 60%;
+  max-width: 40%;
   border-radius: 2px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
@@ -258,6 +260,12 @@ a:visited {
   height: 300px;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
 }
+.flexed {
+  position: relative;
+  margin: 10px 10px 10px 10px;
+  margin-left: auto;
+  margin-right: auto;
+}
 figcaption {
   font-size: 18px;
   color: black;
@@ -313,5 +321,4 @@ figcaption {
     blockquote { text-indent: 0px; width: 80%; margin-left: auto; margin-right: auto; }
     blockquote p { text-align: left; }
     .card {  margin: 0px 10px 30px 10px; }
-
 }
