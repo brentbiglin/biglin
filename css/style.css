@@ -335,4 +335,5 @@ figcaption {
     .card {  margin: 0px 10px 30px 10px; }
     .small { max-width: 85%; }
     .medium { max-width: 85%; }
+    .flex-65 { width: 85%; }
 }
