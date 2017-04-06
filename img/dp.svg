@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="100%" height="100%"
+>
+  <path d="M 80 40 C 150 -30 180 90 120 85 L 120 250 130 250 C 120 270 100 310 80 290" stroke="black" fill="pink" stroke-width="2" />
+  <path d="M 80 40 C 10 -30 -20 90 40 85 L 40 250 30 250 C 40 270 60 310 80 290" stroke="black" fill="pink" stroke-width="2" />
+</svg>
