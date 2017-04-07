@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1280px" height="1299px" viewBox="0 0 1280 1299" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>About</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="198" y="789" width="230" height="200"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="230" height="200" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <rect id="path-3" x="528" y="789" width="230" height="200"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="230" height="200" fill="white">
+            <use xlink:href="#path-3"></use>
+        </mask>
+        <rect id="path-5" x="858" y="789" width="230" height="200"></rect>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="230" height="200" fill="white">
+            <use xlink:href="#path-5"></use>
+        </mask>
+        <rect id="path-7" x="0" y="0" width="1280" height="117"></rect>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1280" height="117" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+        <rect id="path-9" x="-5.68434189e-14" y="0" width="930" height="188"></rect>
+        <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="930" height="188" fill="white">
+            <use xlink:href="#path-9"></use>
+        </mask>
+        <rect id="path-11" x="0" y="0" width="1280" height="117"></rect>
+        <mask id="mask-12" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="1280" height="117" fill="white">
+            <use xlink:href="#path-11"></use>
+        </mask>
+        <rect id="path-13" x="175.588465" y="15" width="256.399065" height="84"></rect>
+        <mask id="mask-14" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="256.399065" height="84" fill="white">
+            <use xlink:href="#path-13"></use>
+        </mask>
+        <rect id="path-15" x="1174.24786" y="21" width="77.817615" height="28"></rect>
+        <mask id="mask-16" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="77.817615" height="28" fill="white">
+            <use xlink:href="#path-15"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="About">
+            <use id="Rectangle-3" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-1"></use>
+            <text id="Еу-мазим-темпор-иус." font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill-opacity="0.85" fill="#000000">
+                <tspan x="219" y="524">Еу мазим темпор иус. Оптион инсоленс еу яуо, но сонет репрехендунт хас. Сеа те лаудем аперири оффициис, ерос убияуе еи еам. </tspan>
+                <tspan x="219" y="540">Сеа импетус малуиссет ин.</tspan>
+            </text>
+            <use id="Rectangle-3" stroke="#979797" mask="url(#mask-4)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-3"></use>
+            <use id="Rectangle-3" stroke="#979797" mask="url(#mask-6)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-5"></use>
+            <text id="Promoting-Russian-la" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                <tspan x="302.341512" y="206">Promoting Russian language among the community of Austin, TX</tspan>
+            </text>
+            <g id="footer" transform="translate(0.000000, 1182.000000)">
+                <use id="Rectangle-2" stroke="#979797" mask="url(#mask-8)" stroke-width="2" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <text id="©-2017-Russian-Schoo" font-family="Helvetica" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="509.283691" y="66">© 2017 Russian School of Austin</tspan>
+                </text>
+            </g>
+            <text id="Class-Schedule" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                <tspan x="285.623624" y="883">Class </tspan>
+                <tspan x="265.830655" y="911">Schedule</tspan>
+            </text>
+            <text id="Events" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                <tspan x="609.611905" y="897">Events</tspan>
+            </text>
+            <text id="Contact" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                <tspan x="935.307218" y="897">Contact</tspan>
+            </text>
+            <g id="Hero-Image" transform="translate(178.000000, 239.000000)">
+                <use id="Rectangle-6" stroke="#979797" mask="url(#mask-10)" stroke-width="2" fill="#D8D8D8" xlink:href="#path-9"></use>
+                <text id="HERO-IMAGE" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                    <tspan x="394.089844" y="102">HERO IMAGE</tspan>
+                </text>
+            </g>
+            <g id="Header">
+                <g id="header">
+                    <use id="Rectangle-2" stroke="#979797" mask="url(#mask-12)" stroke-width="2" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <use id="Rectangle-4" stroke="#979797" mask="url(#mask-14)" stroke-width="2" fill="#EFEFEF" fill-rule="evenodd" xlink:href="#path-13"></use>
+                    <text id="Russian-School-of-Au" font-family="Roboto-Medium, Roboto" font-size="36" font-weight="400" fill-opacity="0.85" fill="#000000">
+                        <tspan x="179.774325" y="48">Russian School </tspan>
+                        <tspan x="230.909091" y="90">of Austin</tspan>
+                    </text>
+                    <text id="About" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                        <tspan x="608.76524" y="87">About</tspan>
+                    </text>
+                    <text id="News" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                        <tspan x="710.693522" y="87">News</tspan>
+                    </text>
+                    <text id="Classes" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                        <tspan x="804.604653" y="87">Classes</tspan>
+                    </text>
+                    <text id="Staff" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                        <tspan x="926.0357" y="87">Staff</tspan>
+                    </text>
+                    <text id="Contact" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                        <tspan x="1016.42535" y="87">Contact</tspan>
+                    </text>
+                    <use id="Rectangle-5" stroke="#979797" mask="url(#mask-16)" stroke-width="2" fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    <text id="RUS" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                        <tspan x="1190.70896" y="44">RUS</tspan>
+                    </text>
+                </g>
+                <path d="M608.074825,98.75 L672.922837,98.75" id="Line" stroke="#979797" stroke-width="3" stroke-linecap="square"></path>
+            </g>
+            <text id="Mission" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                <tspan x="227" y="487">Mission</tspan>
+            </text>
+            <text id="Лорем-ипсум-долор-си" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill-opacity="0.85" fill="#000000">
+                <tspan x="219" y="634">Лорем ипсум долор сит амет, не долоре сапиентем усу. Нумяуам платонем цонституам еум ех. Но пер цопиосае аргументум </tspan>
+                <tspan x="219" y="650">цонцлусионемяуе, не усу фалли хомеро, вис ут адхуц неморе салутанди. Мел ад нобис аудире. Пурто аццусата иудицабит пер ин, </tspan>
+                <tspan x="219" y="666">елаборарет репримияуе хис ат, нам тота меис цонституам еу. Еа иус еиус граецис, ут меис примис пробатус еум. Ут инани </tspan>
+                <tspan x="219" y="682">аццумсан сед, пер ид иудицо долоре суавитате.</tspan>
+                <tspan x="638" y="698"></tspan>
+                <tspan x="219" y="714">Еу мазим темпор иус. Оптион инсоленс еу яуо, но сонет репрехендунт хас. Сеа те лаудем аперири оффициис, ерос убияуе еи еам. </tspan>
+                <tspan x="219" y="730">Сеа импетус малуиссет ин.</tspan>
+            </text>
+            <text id="History" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400" fill-opacity="0.85" fill="#000000">
+                <tspan x="227" y="597">History</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
