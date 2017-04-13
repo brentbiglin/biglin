@@ -9,9 +9,9 @@ body {
   width: 100%;
   background-color: #ebf0f5;
   color: #393e43;
+  font-size: 18px;
 }
 header {
-   width: 60%;
    margin-right: auto;
    margin-left: auto;
 }
@@ -21,20 +21,15 @@ h1 {
   font-weight: 600;
   font-family: 'Catamaran', 'Roboto', sans-serif;
   color: black;
+  text-align: center;
 }
 h1.little {
   font-size: 46px;
 }
 header p {
   font-size: 46px;
-  margin-left: auto;
-  margin-right: auto;
   font-family: 'Catamaran', 'Robot', sans-serif;
-}
-header aside {
-  float: right;
-  text-align: right;
-  margin: 0 0 0 0;
+  text-align: center;
 }
 article {
   width: 65%;
@@ -42,12 +37,11 @@ article {
   margin-left: auto;
   margin-bottom: 50px;
   margin-top: 50px;
+  max-width: 1000px;
 }
 .flex-100 {
   width: 100%;
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 50px;
+  margin: auto auto 50px auto;
   clear: both;
   display: flex;
   flex-wrap: wrap;
@@ -56,14 +50,11 @@ article {
 }
 .flex-65 {
   width: 65%;
-  margin-right: auto;
-  margin-left: auto;
-  margin-bottom: 50px;
+  margin: auto auto 50px auto;
   clear: both;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
-  text-align: center;
 }
 aside {
   width: 50%;
@@ -79,65 +70,45 @@ article h1 {
   font-weight: 500;
   margin-left: 0;
 }
-article p, section p {
-  text-align: justify;
-  text-indent: 0px;
-  font-size: 18px;
-  font-weight: 300;
-}
-section h1 {
-  font-size: 24px;
-  font-weight: 500;
-  margin-left: 0;
-  color: black;
-  font-weight: bold;
-}
-nav {
-  background: #393e43;
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  margin-bottom: 20px;
-}
 nav ul {
   list-style-type: none;
-  margin: 0;
+  margin: auto;
   padding: 0;
   overflow: hidden;
-  background-color: #393e43;
-  display: block;
-  font-size: 18px;
   word-spacing: 40px;
   line-height: 20px;
-  margin-right: 0;
-  margin-left: auto;
-  color: azure;
-  width: 51%;
+  color: white;
   font-weight: 300;
-}
-nav li {
-  float: left;
+  height: 100px;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 nav li a {
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px 16px;
   text-decoration: none;
   display: block;
   transition: .3s;
   font-weight: 300;
-}
-.current {
-  background-color: #5f6469;
+  background-color: #393e43;
+  border-radius: 4px;
+  margin: 20px 30px 0px 30px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 nav li a:hover {
-  background-color: #5f6469;
+  box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+nav li a.current {
+  box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
   transition: .3s;
+  padding: 11px 17px;
 }
 figure {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: 30px auto 30px auto;
   width: 100%;
   text-align: center;
 }
@@ -175,39 +146,27 @@ blockquote h1 {
 }
 .displayed {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: 30px auto;
   max-width: 100%;
   border-radius: 2px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 .noshadow {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: 30px auto;
   max-width: 100%;
   border-radius: 2px;
 }
 .small {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: 30px auto;
   max-width: 40%;
   border-radius: 2px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
 }
 .medium {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 30px;
-  margin-bottom: 30px;
+  margin: 30px auto;
   max-width: 60%;
   border-radius: 2px;
   box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
@@ -221,6 +180,7 @@ blockquote h1 {
   margin: 20px;
   padding-top: 30px;
   background-color: #393e43;
+  text-align: center;
 }
 a.shadow-single:link {
   color: white;
@@ -277,7 +237,7 @@ a:visited {
 }
 .flexed {
   position: relative;
-  margin: 10px 10px 10px 10px;
+  margin: 10px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -307,12 +267,13 @@ figcaption {
   width: 100%;
 }
 ::selection {
-  background: #1B5E20;
+  background: #393e43;
   color: white;
 }
 @media (min-width: 701px)
   and (max-width: 1000px) {
     header { width: 80%; }
+    nav ul { width: 100%; }
     article { width: 80%; }
     section { width: 80%; }
     .card {  margin: 10px 10px 15px 10px; }
@@ -325,14 +286,13 @@ figcaption {
     header h1 { text-align: center; }
     header { width: 85%; }
     header aside { text-align: center; float: none; margin-left: auto; margin-right: auto; }
-    header p { text-align: center; line-height: 40px; margin: 30px auto 30px auto; }
+    header p { text-align: center; line-height: 40px; margin: 30px auto; }
+    nav ul { width: 100%; }
+    nav li a { margin: 20px 1px 0px 1px; }
     article { width: 85%; }
     article h1 { text-align: center; }
     section h1 { text-align: center; }
     section { width: 85%; }
-    nav ul { width: 100%; }
-    nav li { float: initial; }
-    nav li a { text-align: center; }
     section p { text-indent: 0px; }
     article p { text-indent: 0px; }
     blockquote { text-indent: 0px; width: 80%; margin-left: auto; margin-right: auto; }
