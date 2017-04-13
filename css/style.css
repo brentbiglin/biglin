@@ -321,7 +321,7 @@ figcaption {
 }
 @media (min-width: 1px)
   and (max-width: 700px) {
-    h1 { line-height: 75px; margin: 0px auto 0px auto; }
+    h1 { line-height: 75px; margin: 40px auto 0px auto; }
     header h1 { text-align: center; }
     header { width: 85%; }
     header aside { text-align: center; float: none; margin-left: auto; margin-right: auto; }
