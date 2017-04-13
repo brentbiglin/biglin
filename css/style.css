@@ -241,6 +241,7 @@ a.shadow-single:visited {
   float: left;
   padding: 10px 30px 10px 0;
   width: 25%;
+  margin-bottom: 30px;
 }
 a.nav:link {
   color: white;
