@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="612px" height="792px" viewBox="0 0 612 792" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Resume</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="449" height="395"></rect>
+        <filter x="-0.4%" y="-0.3%" width="100.9%" height="101.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="-5.68434189e-14" y="5.68434189e-14" width="449" height="257"></rect>
+        <filter x="-0.4%" y="-0.4%" width="100.9%" height="101.6%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="162" height="338"></rect>
+        <filter x="-1.2%" y="-0.3%" width="102.5%" height="101.2%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="0" width="449" height="138"></rect>
+        <filter x="-0.4%" y="-0.7%" width="100.9%" height="102.9%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="Background" fill="#393E43" x="0" y="0" width="612" height="792"></rect>
+        <g id="Resume">
+            <g id="Experience" transform="translate(163.000000, 0.000000)">
+                <g id="Rectangle-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <text id="EXPERIENCE" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="15.092437" y="46">EXPERIENCE</tspan>
+                </text>
+                <text id="University-of-Texas" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill="#000000" fill-opacity="0.85">
+                    <tspan x="123.330472" y="67">University of Texas at Austin School of Information</tspan>
+                    <tspan x="123.330472" y="81.6" font-family="Roboto-Regular, Roboto" font-weight="normal">IT Lab Teaching Assistant</tspan>
+                    <tspan x="260.656644" y="81.6" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal"></tspan>
+                    <tspan x="123.330472" y="96.2" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">Conducting eye-tracking research and UX analysis.</tspan>
+                    <tspan x="123.330472" y="109.8" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">Developing and conducting courses for students.</tspan>
+                    <tspan x="358.245999" y="109.8" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300"></tspan>
+                    <tspan x="123.330472" y="123.4" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal"></tspan>
+                    <tspan x="123.330472" y="140">San Antonio Education Partnership</tspan>
+                    <tspan x="123.330472" y="154.6" font-family="Roboto-Regular, Roboto" font-weight="normal">College Access and Success Advisor</tspan>
+                    <tspan x="319.619535" y="154.6" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal"></tspan>
+                    <tspan x="123.330472" y="169.2" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">Researched and redesigned the partnership website to be human-</tspan>
+                    <tspan x="123.330472" y="182.2" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">centered and mobile.</tspan>
+                    <tspan x="123.330472" y="195.8" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">Designed and taught workshops for community members.</tspan>
+                    <tspan x="123.330472" y="209.4" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">Assisted clients with web-based college and financial aid </tspan>
+                    <tspan x="123.330472" y="222.4" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">applications.</tspan>
+                    <tspan x="184.303128" y="222.4" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300"></tspan>
+                    <tspan x="123.330472" y="236" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal"></tspan>
+                    <tspan x="123.330472" y="252.6">English Language Services</tspan>
+                    <tspan x="123.330472" y="267.2" font-family="Roboto-Regular, Roboto" font-weight="normal">Instructor of English as a Foreign Language</tspan>
+                    <tspan x="123.330472" y="281.8" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">Conducted a dynamic and student-centered classroom.</tspan>
+                    <tspan x="123.330472" y="295.4" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">Assessed students' English language proficiency.</tspan>
+                    <tspan x="358.331937" y="295.4" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal"></tspan>
+                    <tspan x="123.330472" y="309" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal"></tspan>
+                    <tspan x="123.330472" y="325.6">The Ohio State University</tspan>
+                    <tspan x="123.330472" y="340.2" font-family="Roboto-Regular, Roboto" font-weight="normal">Arabic Language Teaching Associate</tspan>
+                    <tspan x="320.351956" y="340.2" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal"></tspan>
+                    <tspan x="123.330472" y="354.8" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">Developed curricula and lesson plans with fellow instructors.</tspan>
+                    <tspan x="123.330472" y="368.4" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">Produced and organized classroom materials and resources.</tspan>
+                    <tspan x="123.330472" y="382" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300">Mentored students in language skills and cultural competence.</tspan>
+                </text>
+                <text id="Austin,-TX-Jan-’17--" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="59.7193372" y="82">Austin, TX</tspan>
+                    <tspan x="27.8580091" y="95">Jan ’17 - Present</tspan>
+                </text>
+                <text id="San-Antonio,-TX-May" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="31.819828" y="167">San Antonio, TX</tspan>
+                    <tspan x="26.7280311" y="180">May ’15 - Dec ’16</tspan>
+                </text>
+                <text id="San-Antonio,-TX-Aug" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="31.819828" y="264">San Antonio, TX</tspan>
+                    <tspan x="26.3251991" y="277">Aug ’13 - May ’15</tspan>
+                </text>
+                <text id="Columbus,-OH-Sept-’1" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="38.7001991" y="334">Columbus, OH</tspan>
+                    <tspan x="20.1860389" y="347">Sept ’11 - June ’13</tspan>
+                </text>
+            </g>
+            <g id="Projects" transform="translate(163.000000, 396.000000)">
+                <g id="Rectangle-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                </g>
+                <text id="Austin,-TX-Ongoing" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="59.5340164" y="68">Austin, TX</tspan>
+                    <tspan x="67.5047195" y="81">Ongoing</tspan>
+                </text>
+                <text id="Austin,-TX-Ongoing" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="59.5340164" y="171">Austin, TX</tspan>
+                    <tspan x="67.5047195" y="184">Ongoing</tspan>
+                </text>
+                <text id="CURRENT-PROJECTS" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="15.092437" y="27">CURRENT PROJECTS</tspan>
+                </text>
+                <text id="Water-to-Thrive-Webs" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill-opacity="0.85" fill="#000000">
+                    <tspan x="123.330472" y="47">Water to Thrive</tspan>
+                    <tspan x="123.330472" y="61">Website Redesign</tspan>
+                    <tspan x="219.453519" y="61" font-family="Roboto-Bold, Roboto" font-weight="bold"></tspan>
+                    <tspan x="123.330472" y="75" font-family="Roboto-Regular, Roboto" font-weight="normal">UX Research and Design</tspan>
+                    <tspan x="123.330472" y="89" font-family="Roboto-Light, Roboto" font-weight="300">Researching and analyzing current information </tspan>
+                    <tspan x="123.330472" y="103" font-family="Roboto-Light, Roboto" font-weight="300">architecture of the website and creating a site map based </tspan>
+                    <tspan x="123.330472" y="117" font-family="Roboto-Light, Roboto" font-weight="300">on clients’ current needs.</tspan>
+                    <tspan x="123.330472" y="131" font-family="Roboto-Bold, Roboto" font-weight="bold"></tspan>
+                    <tspan x="123.330472" y="145">Russian School of Austin</tspan>
+                    <tspan x="123.330472" y="159">Website Design</tspan>
+                    <tspan x="206.592191" y="159" font-family="Roboto-Bold, Roboto" font-weight="bold"></tspan>
+                    <tspan x="123.330472" y="173" font-family="Roboto-Regular, Roboto" font-weight="normal">UX Research and Design</tspan>
+                    <tspan x="123.330472" y="187" font-family="Roboto-Light, Roboto" font-weight="300">Meeting with the client to assess the community’s needs </tspan>
+                    <tspan x="123.330472" y="201" font-family="Roboto-Light, Roboto" font-weight="300">to transition the online presence from a Facebook group </tspan>
+                    <tspan x="123.330472" y="215" font-family="Roboto-Light, Roboto" font-weight="300">to a parent- and student-centered website.</tspan>
+                    <tspan x="123.330472" y="229" font-family="Roboto-Light, Roboto" font-weight="300">Developing an information architecture and site map for </tspan>
+                    <tspan x="123.330472" y="243" font-family="Roboto-Light, Roboto" font-weight="300">ease of use and access to information.</tspan>
+                </text>
+            </g>
+            <g id="Skills" transform="translate(0.000000, 454.000000)">
+                <g id="Rectangle-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <text id="UX-Design" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill-opacity="0.85" fill="#000000">
+                    <tspan x="52.715321" y="165">UX Design</tspan>
+                </text>
+                <text id="SKILLS" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="58.5744211" y="29">SKILLS</tspan>
+                </text>
+                <text id="UX-Research" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill-opacity="0.85" fill="#000000">
+                    <tspan x="46.1703991" y="58">UX Research</tspan>
+                </text>
+                <text id="Contextual-Inquiry-C" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="36.8767796" y="84">Contextual Inquiry</tspan>
+                    <tspan x="25.3396702" y="97">Competitive Evaluation</tspan>
+                    <tspan x="50.3501683" y="110">Card Sorting</tspan>
+                    <tspan x="41.0366917" y="123">Usability Testing</tspan>
+                    <tspan x="49.7996312" y="136">Eye-Tracking</tspan>
+                </text>
+                <text id="Sketch-3-Affinity-Ax" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="59.7780344" y="192">Sketch 3</tspan>
+                    <tspan x="63.6774485" y="205">Affinity</tspan>
+                    <tspan x="58.5346262" y="218">Axure RP</tspan>
+                    <tspan x="62.7187082" y="231">HTML5</tspan>
+                    <tspan x="67.3861887" y="244">CSS3</tspan>
+                </text>
+                <text id="Languages" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill-opacity="0.85" fill="#000000">
+                    <tspan x="50.895985" y="273">Languages</tspan>
+                </text>
+                <text id="Arabic-Spanish" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="64.9416121" y="299">Arabic</tspan>
+                    <tspan x="60.870323" y="312">Spanish</tspan>
+                </text>
+            </g>
+            <g id="Education" transform="translate(163.000000, 654.000000)">
+                <g id="Rectangle-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <text id="The-University-of-Te" font-family="Roboto-Medium, Roboto" font-size="12" font-weight="400" fill-opacity="0.85" fill="#000000">
+                    <tspan x="123.330472" y="41">The University of Texas at Austin</tspan>
+                    <tspan x="123.330472" y="55" font-family="Roboto-Light, Roboto" font-weight="300">Master of Science, Information Studies.</tspan>
+                    <tspan x="123.330472" y="69" font-family="Roboto-Light, Roboto" font-weight="300">Specialization: User Experience, Information Architecture.</tspan>
+                    <tspan x="123.330472" y="83" font-family="Roboto-Bold, Roboto" font-weight="bold"></tspan>
+                    <tspan x="123.330472" y="97">The Ohio State University</tspan>
+                    <tspan x="123.330472" y="111" font-family="Roboto-Light, Roboto" font-weight="300">Master of Arts, Arabic Language and Literature.</tspan>
+                    <tspan x="123.330472" y="125" font-family="Roboto-Light, Roboto" font-weight="300">Bachelor of Arts, Comparative Studies and Arabic Language.</tspan>
+                </text>
+                <text id="EDUCATION" font-family="Roboto-Light, Roboto" font-size="14" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="15.092437" y="24">EDUCATION</tspan>
+                </text>
+                <text id="Columbus,-OH-June-’1" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="38.978968" y="97">Columbus, OH</tspan>
+                    <tspan x="67.6122688" y="110">June ’13</tspan>
+                </text>
+                <text id="June-’09" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill="#000000">
+                    <tspan x="66.8885854" y="124">June ’09</tspan>
+                </text>
+                <text id="Austin,-TX-Dec-’18" font-family="Roboto-Light, Roboto" font-size="11" font-weight="300" fill-opacity="0.85" fill="#000000">
+                    <tspan x="75.6419329" y="47">Austin, </tspan>
+                    <tspan x="94.9134172" y="60">TX</tspan>
+                    <tspan x="72.8382219" y="73">Dec ’18</tspan>
+                </text>
+            </g>
+            <g id="Header" transform="translate(12.000000, 21.000000)" fill-opacity="0.85" fill="#FFFFFF">
+                <g id="Group-2" transform="translate(25.000000, 159.000000)" font-size="14">
+                    <text id="http://biglin.io" font-family="Roboto-Light, Roboto" font-weight="300">
+                        <tspan x="7.04443359" y="39.7039905">http://biglin.io</tspan>
+                    </text>
+                    <text id="Portfolio" font-family="Roboto-Medium, Roboto" font-weight="400">
+                        <tspan x="21.9731445" y="13">Portfolio</tspan>
+                    </text>
+                </g>
+                <g id="Group" transform="translate(17.000000, 290.000000)" font-size="14">
+                    <text id="biglin@gmail.com" font-family="Roboto-Light, Roboto" font-weight="300">
+                        <tspan x="1.91943359" y="39.7039905">biglin@gmail.com</tspan>
+                    </text>
+                    <text id="210.216.2224" font-family="Roboto-Light, Roboto" font-weight="300">
+                        <tspan x="14.8632812" y="64.5663265">210.216.2224</tspan>
+                    </text>
+                    <text id="Contact" font-family="Roboto-Medium, Roboto" font-weight="400">
+                        <tspan x="32.8203125" y="13">Contact</tspan>
+                    </text>
+                </g>
+                <g id="Group-3">
+                    <text id="UX-Research-and-Desi" font-family="Roboto-Light, Roboto" font-size="18" font-weight="300">
+                        <tspan x="21.9804688" y="47.3872996">UX Research </tspan>
+                        <tspan x="28.4931641" y="68.3872996">and Design</tspan>
+                    </text>
+                    <text id="Brent-Biglin" font-family="Roboto-Medium, Roboto" font-size="24" font-weight="400">
+                        <tspan x="8.98046875" y="22">Brent Biglin</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
