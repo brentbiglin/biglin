@@ -16,18 +16,15 @@ header {
    margin-left: auto;
 }
 h1 {
-  margin: 100px auto 40px auto;
-  font-size: 100px;
+  margin: 100px auto 0px auto;
+  font-size: 64px;
   font-weight: 600;
   font-family: 'Catamaran', 'Roboto', sans-serif;
   color: black;
   text-align: center;
 }
-h1.little {
-  font-size: 46px;
-}
 header p {
-  font-size: 46px;
+  font-size: 24px;
   font-family: 'Catamaran', 'Robot', sans-serif;
   text-align: center;
 }
