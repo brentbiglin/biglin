@@ -293,6 +293,21 @@ figcaption {
   bottom: 0;
   width: 100%;
 }
+.video-container {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+}
+.video-container-16x9 {
+  padding-bottom: 56.25%;
+}
+.video-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 ::selection {
   background: #393e43;
   color: white;
