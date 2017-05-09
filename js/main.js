@@ -1,6 +1,6 @@
 function openNav() {
-document.getElementById("nav").style.right = "0px";
+document.getElementById("nav").classList.add("active");
 }
 function closeNav() {
-document.getElementById("nav").style.right = "-300px";
+document.getElementById("nav").classList.remove("active");
 }

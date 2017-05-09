@@ -13,14 +13,18 @@ body {
 }
 nav {
   position: absolute;
-  right: -300px;
-  top: 0px;
+  right: 0px;
+  top: -650px;
   background-color: #393E43;
-  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
-  height: 100%;
+  box-shadow: none;
+  height: 600px;
   width: 300px;
-  transition: 0.1s;
+  transition: 0.3s;
   z-index: +1;
+}
+nav.active {
+  top: 0px;
+  box-shadow: 0px 0px 1px 50000px rgba(0,0,0,0.8);
 }
 .menu {
   position: absolute;
@@ -36,7 +40,6 @@ nav {
   position: absolute;
   right: 30px;
   top: 30px;
-  background-color: #393E43;
   height: 30px;
   width: 30px;
   text-align: center;
@@ -163,7 +166,6 @@ nav li a {
   font-size: 36px;
   line-height: 100px;
   font-family: 'Righteous';
-  background-color: #393e43;
   margin: 20px 30px 0px 30px;
 }
 figure {
@@ -184,7 +186,7 @@ footer {
   position: absolute;
   bottom: 0;
   left: 0;
-  height: 45px;
+  height: 75px;
 }
 blockquote {
   color: #ebf0f5;
@@ -197,6 +199,7 @@ blockquote {
 blockquote h1 {
   color: #ebf0f5;
   margin: 20px;
+  font-family: 'Roboto', sans-serif;
 }
 .resume {
   max-width: 100%;
@@ -369,6 +372,7 @@ figcaption {
     section p { text-indent: 0px; }
     article p { text-indent: 0px; }
     blockquote { text-indent: 0px; width: 80%; margin-left: auto; margin-right: auto; }
+    blockquote h1 { line-height: 40px; }
     blockquote p { text-align: left; }
     .card {  margin: 0px 10px 30px 10px; }
     .small { max-width: 85%; }
