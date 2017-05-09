@@ -15,19 +15,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Personal and professional website for Brent Biglin.">
+    <script type="text/javascript" src="js/main.js"></script>
   </head>
   <body>
-    <nav>
+    <div class="home">
+      <a href="index.htm"><img src="img/bb.svg"></a>
+    </div>
+    <div id="menu" class="menu" onclick="openNav()">
+      <img src="img/burger.svg">
+    </div>
+    <nav id="nav">
+      <div class="close" onclick="closeNav()">
+        <img src="img/x.svg">
+      </div>
       <ul>
-        <li><a class="nav" href="index.htm"><img src="img/portfolio-icon.svg" alt="portfolio icon" class="icon">Portfolio</a></li>
-        <li><a class="nav" href="resume.htm"><img src="img/resume-icon.svg" alt="resume icon" class="icon">Resume</a></li>
-        <li><a class="nav" href="about.htm"><img src="img/about-icon.svg" alt="about icon" class="icon">About</a></li>
+        <li><a class="nav current" href="index.htm">Portfolio</a></li>
+        <li><a class="nav" href="resume.htm">Resume</a></li>
+        <li><a class="nav" href="about.htm">About</a></li>
       </ul>
     </nav>
-    <header>
+    <header onclick="closeNav()">
       <h1>Russian School of Austin</h1>
+      <p>UX Research and Design</p>
     </header>
-    <main>
+    <main onclick="closeNav()">
       <article>
         <figure><img src="img/russianschool-hero.png" alt="Comparison of the low and high fidelity mockups for the Russian School of Austin website" class="noshadow"></figure>
           <p>As a part of a course at the University of Texas, I have the opportunity to take part in the creation of a website for the Russian School of Austin, which is a local extracurricular program that offers various subjects in Russian on Sundays. After a competitive analysis of websites for similar programs, we met with the client and were able to probe into what exactly they want the website to provide to the students and parents of the school.
