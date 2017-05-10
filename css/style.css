@@ -14,37 +14,11 @@ body {
 nav {
   position: absolute;
   right: 0px;
-  top: -350px;
-  background-color: #393E43;
-  box-shadow: none;
-  height: 350px;
-  width: 270px;
-  transition: 1s;
-  z-index: +1;
-  border-radius: 4px;
-}
-nav.active {
   top: 0px;
-  box-shadow: 0 12px 15px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
-}
-.menu {
-  position: absolute;
-  right: 20px;
-  top: 30px;
-  background-color: #393E43;
-  height: 34px;
-  width: 40px;
-  text-align: center;
-  cursor: pointer;
-}
-.close {
-  position: absolute;
-  right: 30px;
-  top: 30px;
-  height: 30px;
-  width: 30px;
-  text-align: center;
-  cursor: pointer;
+  background-color: none;
+  box-shadow: none;
+  height: 125px;
+  width: 155px;
 }
 .home {
   position: absolute;
@@ -157,15 +131,15 @@ nav ul {
   word-spacing: 40px;
   color: #EBF0F5;
   font-weight: 300;
-  margin: 70px 0 0 30px;
+  margin: 10px 15px 0 0;
+  text-align: right;
 }
 nav li a {
   color: #EBF0F5;
-  text-align: center;
   text-decoration: none;
   font-weight: 300;
   font-size: 24px;
-  line-height: 75px;
+  line-height: 32px;
   font-family: 'Righteous';
 }
 figure {
@@ -177,8 +151,8 @@ figure {
 footer {
   overflow: hidden;
   background-color: #393e43;
-  font-size: 16px;
-  font-weight: lighter;
+  font-size: 18px;
+  font-weight: 300;
   line-height: 100px;
   color: #EBF0F5;
   text-align: center;
@@ -349,7 +323,6 @@ figcaption {
   and (max-width: 1000px) {
     header { width: 100%; margin-top: 70px; }
     header h1 { font-size: 36px; }
-    nav ul { width: 100%; }
     article { width: 80%; }
     section { width: 80%; }
     .card {  margin: 10px 10px 15px 10px; }
@@ -359,12 +332,10 @@ figcaption {
 @media (min-width: 1px)
   and (max-width: 700px) {
     h1 { line-height: 75px; margin: 40px auto 0px auto; }
-    header h1 { text-align: center; font-size: 24px; line-height: 18px; }
-    header { width: 100%; margin-top: 90px; height: 80px; }
+    header h1 { text-align: center; font-size: 32px; line-height: 18px; }
+    header { width: 100%; margin-top: 125px; height: 80px; }
     header aside { text-align: center; float: none; margin-left: auto; margin-right: auto; }
     header p { text-align: center; font-size: 14px; line-height: 18px; }
-    nav ul { width: 100%; }
-    nav li a { margin: 20px 1px 0px 1px; }
     article { width: 85%; }
     article h1 { text-align: center; }
     section h1 { text-align: center; }
