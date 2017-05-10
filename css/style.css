@@ -179,14 +179,14 @@ footer {
   background-color: #393e43;
   font-size: 16px;
   font-weight: lighter;
-  line-height: 45px;
+  line-height: 100px;
   color: #EBF0F5;
   text-align: center;
   width: 100%;
   position: absolute;
   bottom: 0;
   left: 0;
-  height: 75px;
+  height: 100px;
 }
 blockquote {
   color: #ebf0f5;
