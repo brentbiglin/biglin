@@ -221,6 +221,7 @@ blockquote h1 {
 a.shadow-single:link {
   color: #EBF0F5;
   text-decoration: none;
+  font-weight: 300;
 }
 
 a.shadow-single:visited {
